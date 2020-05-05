@@ -1,0 +1,1 @@
+(window.webpackJsonpkw_shell=window.webpackJsonpkw_shell||[]).push([[530],{6530:(e,a,p)=>{"use strict";p.r(a),p.d(a,{changeAppNameAction:()=>t,default:()=>l});const s={appName:"dashboard",userName:"Kelle1"},t=e=>({type:"CHANGE_APP_NAME",payload:e}),l=(e=s,a)=>{switch(a.type){case"CHANGE_APP_NAME":return{...e,userName:a.payload}}return e}}}]);

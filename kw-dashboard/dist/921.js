@@ -1,0 +1,1 @@
+(window.webpackJsonpkelleguides=window.webpackJsonpkelleguides||[]).push([[921],{921:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>u});var l=t(210),s=t.n(l);const u=()=>s().createElement("button",null,"App 2 Button")}}]);
