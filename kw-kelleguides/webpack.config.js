@@ -42,9 +42,7 @@ module.exports = {
         dashboard: "dashboard",
       },
       exposes: {
-        Button: "./src/Button",
-        KelleGuideApp: "./src/KelleGuide",
-        Goals: "./src/Goals",
+        KelleGuideApp: "./src/kelleguide",
       },
       shared: ["react", "react-dom", "react-router-dom", "styled-components"],
     }),
